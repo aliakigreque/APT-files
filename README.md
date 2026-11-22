@@ -10,16 +10,23 @@ How to use it: [about.md](about.md). Changes: [changelog.md](changelog.md).
 
 ### Go back to GD 2.2081 (skip if you're already on it)
 Save your data to the cloud first: Settings > Account > Save.
+
 Type steam://open/console in your browser's address bar and let it open Steam.
+
 In the Steam console, enter:
+
 download_depot 322170 322171 3816559102876907245
 
+
 Wait for the download to finish (if you get a permission error, run Steam as administrator).
+
 Copy everything from
+
 C:\Program Files (x86)\Steam\steamapps\content\app_322170\depot_322171
 into
 C:\Program Files (x86)\Steam\steamapps\common\Geometry Dash
 and replace the existing files.
+
 To stop Steam from updating the game: in C:\Program Files (x86)\Steam\steamapps, right click appmanifest_322170.acf > Properties > tick Read-only > OK.
 
 ### Install Geode 5.11.2
