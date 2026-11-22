@@ -32,6 +32,7 @@ and restart the game. Open a level and press F1 to open the menu.
 
 ### Good to know
 • Don't use other mods that change the physics or the inputs at the same time (TPS bypass, Click Between Frames, speedhack, noclip, other bots).
+
 • To get the latest GD back later: untick Read-only, then use Verify integrity of game files in Steam.
 
 The paths above are for a default Steam install.
